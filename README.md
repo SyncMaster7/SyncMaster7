@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SyncMaster7
-- 👀 I’m interested in ...
+- 👀 I’m interested in Formula 1 and racing in general
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Python projects
 - 📫 How to reach me ...
 
 <!---
