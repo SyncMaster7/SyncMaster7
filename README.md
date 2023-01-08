@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SyncMaster7
+- 👋 Hi, I’m Kermo
 - 👀 I’m interested in Formula 1 and racing in general
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Python and Java projects
